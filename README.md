@@ -108,13 +108,15 @@ All 3 commands together:
 
 
 
-Summary
+# Summary
+
 By following these steps, you:
 
 Created a group (securegrp) to manage access control.
 Added a user (secureusr) to this group.
 
 Set a password for secure authentication.
+
 Created a directory (securefiles) in the user's home directory for storing files.
 
 Assigned ownership of the directory to the user and group.
